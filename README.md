@@ -15,8 +15,6 @@ Since I am now in 2nd grade of senior high school, I decided to take this time f
 * Avoid the over using social media.
 * 🔜
 
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
-
 ---
 
 ### Credit to 
