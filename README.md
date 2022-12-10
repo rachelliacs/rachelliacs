@@ -18,8 +18,4 @@ Since I am now in 2nd grade of senior high school, I decided to take this time f
 ---
 
 ### Credit to 
--  Mandragora Estudio **for GIF**. 
-
-https://dribbble.com/shots/9344637-working-hard
-
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+- [VatanaChhorn](https://github.com/Vatanachhorn)
