@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there 👋 
 
-<!--
-**rachelliacs/rachelliacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Rachellia Citra Suryaningsih, 
 
-Here are some ideas to get you started:
+A student at SMKN 4 Malang, Indonesia, majoring in Software Engineering. 👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼  Things that I'm currently working on: 
+* Studied in Software Engineering major.
+* Looking forward to take an intern in a software house. 
+* 🔜
+
+### 🌱 Challenges that I’m currently challenging myself:
+Since I am now in 2nd grade of senior high school, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+
+Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
+
+---
+
+### Credit to 
+-  Mandragora Estudio **for GIF**. 
+
+https://dribbble.com/shots/9344637-working-hard
+
+⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
