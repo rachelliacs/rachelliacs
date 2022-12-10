@@ -2,7 +2,7 @@
 
 ### I'm Rachellia Citra Suryaningsih, 
 
-A student at SMKN 4 Malang, Indonesia, majoring in Software Engineering. 👨🏻‍💻 
+A student at Public Vocational High School 4 Malang, Indonesia, majoring in Software Engineering. 👨🏻‍💻 
 
 ### 💼  Things that I'm currently working on: 
 * Studied in Software Engineering major.
