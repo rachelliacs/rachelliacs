@@ -13,10 +13,11 @@
 
 ### 🛠️ Language and Tools that I learned so far:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-bottom: 10px;" />
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="padding-right:10px; padding-bottom: 10px;"/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; padding-bottom: 10px;"/>
+<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px; padding-bottom: 10px;"/>
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-bottom: 10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-bottom: 10px;" />
+<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px; padding-bottom: 10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; padding-bottom: 10px;" />
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px; padding-bottom: 10px;"/>        
 <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px; padding-bottom: 10px;" />
